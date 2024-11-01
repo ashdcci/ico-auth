@@ -22,7 +22,7 @@
     "dotenv": "6.0.0",
     "express": "4.16.3",
     "inversify": "4.13.0",
-    "inversify-express-utils": "6.0.0",
+    "inversify-express-utils": "6.4.7",
     "joi": "13.4.0",
     "jsonwebtoken": "8.3.0",
     "node-uuid": "^1.4.7",
